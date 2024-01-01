@@ -2,7 +2,6 @@
 <h3 align="center">Data Scientist | Data Analyst</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trganesh&label=Profile%20views&color=0e75b6&style=flat" alt="trganesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trganesh&theme=" alt="trganesh" /></a> </p>
 
 - 🌱 I’m currently learning **Deep Learning**
 - 💬 Ask me about **Data Analysis, Machine Learning**
@@ -36,12 +35,4 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trganesh&layout=compact&theme=" alt=trganesh />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/trganesh">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=trganesh&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trganesh&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trganesh&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trganesh&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trganesh&theme=2077" height="180em" />
 </div>
