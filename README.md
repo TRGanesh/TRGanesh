@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TR Ganesh</h1>
-<h3 align="center">Data Analyst | Machine Learning Engineer</h3>
+<h3 align="center">Aspiring Data Analyst | Machine Learning Engineer</h3>
 
 - Hey there!!, I am a B.Tech student with an interest in **Data Analysis** and **Machine Learning**.
 - I have hands-on experience on Data Visualization & Exploratory Data Analysis using Python, **SQL** and BI tools like **Tableau**, **Excel**.
